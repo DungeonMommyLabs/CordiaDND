@@ -23,8 +23,11 @@
 ![[IMG/Izzy IMG.png]]
 
 **gespeelt door:** Melon 
+
 **Level:** lvl 5
+
 [[The Basics/Races/Harengon]] 
+
 **Class:** Ranger (, Entertainer)
 
 
@@ -32,9 +35,13 @@
 ![[IMG/James Ravenhoorn IMG.png]]
 
 **gespeelt door:** Egbert
+
 **Level:** lvl 5
+
 [[The Basics/Races/Human]] 
+
 **Class:** paladin (, Acolyte)
+
 
 # [[Players/Mikaela Mittens]]
 ![[IMG/Mikaela Mittens IMG.png]]
