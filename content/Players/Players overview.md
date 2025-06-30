@@ -6,16 +6,22 @@
 ![[IMG/BLOO IMG.png]]
 
 **gespeelt door:** Ezra
+
 **Level:** lvl 5
+
 [[The Basics/Races/Dragonborn]] 
+
 **Class:** Monk (Way of the dead, Dead)
 
 # [[Players/Alyssa Qilar]]
 ![[IMG/Alyssa IMG.png]]
 
 **gespeelt door:** Elle
+
 **Level:** lvl 5
+
 [[The Basics/Races/Shadar Kai Elf]] 
+
 **Class:** Fighter (Gunner, Urban Bounty Hunter)
 
 
@@ -46,6 +52,9 @@
 # [[Players/Mikaela Mittens]]
 ![[IMG/Mikaela Mittens IMG.png]]
 **gespeelt door:** Charlie
+
 **Level:** lvl 5
+
 [[The Basics/Races/Tabaxi]] 
+
 **Class:** Sword Mage (Battle mage, Inheritor)
